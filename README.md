@@ -7,6 +7,7 @@ App web estilo AR Drawing para estudos de pintura: a referência fica sobre a c�
 ## Recursos
 - Câmera traseira em tela cheia, troca de câmera e lanterna (quando o aparelho suporta)
 - Referência por upload, colar (Ctrl+V) ou arrastar
+- Perspectiva por **4 pontos**: arraste os cantos para alinhar a referência ao papel; desative o modo para mover e usar pinça. **Travar** fixa o alinhamento, **Ajustar** restaura o formato. As setas do teclado ajustam o canto selecionado (Shift para passos maiores).
 - Opacidade, mover (1 dedo), escala e rotação (pinça), espelhar
 - Modos de estudo: Original, Cinza, Valores (2/3/5/7 faixas, 2 = notan) e Linhas (contornos com fundo transparente)
 - Grade quadrada (3, 4, 6, 8 divisões no lado menor)
